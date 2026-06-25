@@ -59,7 +59,7 @@
 
 ![AI助手](images/ai%E5%8A%A9%E6%89%8B.png)
 
-### Agent 管理
+### Agentic 管理
 
 ![Agent](images/agent.png)
 
@@ -71,7 +71,7 @@
 
 ![Agentic-查](images/agentic%E5%8A%9F%E8%83%BD-%E6%9F%A5.png)
 
-### 删除 Agent
+### Agentic 删除
 
 ![Agentic-删](images/%E5%88%A0%E9%99%A4agent.png)
 
