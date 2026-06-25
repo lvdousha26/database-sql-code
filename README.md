@@ -25,56 +25,46 @@
 | 练习3 | 表结构修改/删除/清空、完整性约束、视图创建与查询 |
 | 练习4 | 事务插入、游标遍历、成本统计存储过程、触发器 |
 
-## 功能界面预览
-
-### 首页
-
-![首页](images/%E9%A6%96%E9%A1%B5.png)
+## 功能界面预览 (v2.0)
 
 ### 登录
 
-![登录](images/%E7%99%BB%E5%BD%95.png)
+![登录](images/v2.0/登录.png)
 
-### 油水井管理
+### 主页
 
-![油水井管理](images/%E6%B2%B9%E6%B0%B4%E4%BA%95%E7%AE%A1%E7%90%86.png)
+![主页](images/v2.0/主页.png)
 
-### 查询功能
+### 数据大屏
 
-![查询](images/%E6%9F%A5%E8%AF%A2.png)
+![数据大屏](images/v2.0/数据大屏.png)
 
-### 插入功能
+### 数据操作
 
-![插入](images/%E6%8F%92%E5%85%A5.png)
+![插入等](images/v2.0/插入等.png)
 
-### 修改功能
+### 个人主页
 
-![修改](images/%E4%BF%AE%E6%94%B9.png)
+![个人主页](images/v2.0/个人主页.png)
 
-### 删除功能
+### 头像
 
-![删除](images/%E5%88%A0%E9%99%A4.png)
+![头像](images/v2.0/头像.png)
+
+### 自定义 API Key
+
+![自定义apikey](images/v2.0/自定义apikey.png)
+
+### 系统提示词
+
+![系统提示词](images/v2.0/系统提示词.png)
 
 ### AI 助手
 
-![AI助手](images/ai%E5%8A%A9%E6%89%8B.png)
+![AI助手](images/v2.0/ai助手.png)
 
-### Agentic 管理
+![AI助手2](images/v2.0/ai助手2.png)
 
-![Agent](images/agent.png)
+---
 
-### Agentic 增加
-
-![Agentic-增](images/agentic-%E5%A2%9E.png)
-
-### Agentic 查询
-
-![Agentic-查](images/agentic%E5%8A%9F%E8%83%BD-%E6%9F%A5.png)
-
-### Agentic 删除
-
-![Agentic-删](images/%E5%88%A0%E9%99%A4agent.png)
-
-### 系统截图
-
-![屏幕截图](images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-12%20205015.png)
+> [v1.0 界面预览](v1.0-预览.md)
